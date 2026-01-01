@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+data
+hello.py
+FunctionGemma 270M Mobile Actions.ipynb
+Read
+README_gemma.md
+train.py
