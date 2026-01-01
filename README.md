@@ -510,14 +510,6 @@ If you use this project in your research, please cite:
 - Model predictions should be validated before clinical use
 - Compliance with medical regulations (HIPAA, GDPR) required for deployment
 
-## 📧 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
